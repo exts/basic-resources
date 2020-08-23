@@ -8,8 +8,8 @@ Programming Tools are essential for writing code. You'll need a syntax editor or
 
 **Common Editors**
 
-- Visual Studio Code (very popular)
-- Notepad++ (Some colleges require it for teaching)
+- [Visual Studio Code](https://code.visualstudio.com/) (very popular)
+- [Notepad++](https://notepad-plus-plus.org/) (Some colleges require it for teaching)
 
 I'm going to leave IDE's out of this section for now because IDE's are most of the time language dependent. For example PHPStorm is a (paid) IDE that is a staple in the web development industry currently.
 

@@ -1,6 +1,8 @@
 # WIP
 
-This document is going to get updated over time, not often, but as I learn more I can share more. A lot of this is from information I've gathered over the years and my attempt at giving you some resources on where to start. Especially if you're unsure where to look because programming is broken up into different areas which can be confusing especially if you're looking at web development stuff when you're trying to get into game development.
+This document is going to get updated over time, not often, but as I learn more I can share more. A lot of this is from information I've gathered over the years and my attempt at giving you some resources on where to start. 
+
+I'm no teacher, but I'll gladly try to point you in the right direction.
 
 # Common Tools
 
@@ -42,6 +44,26 @@ One thing you'll probably need to learn eventually is how to use git. It's not t
 - https://www.freelancer.com
 - https://guru.com
 - https://forums.digitalpoint.com/#buy-sell-or-trade.32 BST - old school, grey area, lot of overseas work. 
+
+# How I research
+
+It's interesting that schools don't do enough to teach people basic skills for researching online. With the vast majority of sources that are free, you should really take advantage of search engines and thinking more like a computer. 
+
+Now you don't have to know what SEO (Search Engine Optimizations) is, but you should still have a [basic understanding of how it works](https://moz.com/beginners-guide-to-seo/why-search-engine-marketing-is-necessary). The main reason I bring up seo is because of what I said before regarding thinking more like a computer. In short SEO allows people to rank their sites based on keywords alone. A lot of SEO is out of the users hand right, but you have to understand that search engines limit page titles, page descriptions, keyword tags, etc... and when you're doing research you have to understand that the more specific a question you're trying to find the answer to the harder it is to find the best results for that question.
+
+When I'm doing research, not even just for programming, I first type out the question I want answered as detailed as possible. Most of the time your question will probably be a very lengthy question and when you google this very specific question you get results that you don't want. Well when I run into that problem I try to find the exact piece of information in that question that I want an answer to. For example say I want to know: **Do whales sleep during the day in the fall.** That's a very specific question, but when you break that question down you get: **Do whales sleep**, not only are you getting a bit more broad you might be able to find a branch towards finding the actual answer you want regarding this question. Now maybe tighten up your question but still keep it broad because there might not be an actual answer to our question and we can then ask: **How often do whales sleep?** or **When do whales sleep?** very specific questions, but they help us figure out when they sleep and that will answer our question of if they sleep at all and what periods of the day they sleep which would get close to our original question.
+
+When doing research you have to always take your large question, break it down into a bunch of smaller questions that are more broad but still close to the original question you had to allow you to garner the same results. This will work for finding memes on google's image search, etc...
+
+**Learn your search engines short cuts**
+
+Search engines all have short cuts to do more advanced query searches. A good article on that can be found [here](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html). Take the time to research what short cuts a search engine has and use them to your best ability because there are literally trillion's of web pages stored on google.
+
+A lot of different search engines treat keywords inside quotation marks more important than other words. Use that to your advantage. Say you want to learn something about someone from history, use quotation marks on the important pieces of their name to tell the search engine "it must contain this" and it'll tell you in the reuslts "does not contain keyword" under the results it lists. Which will help you process results faster as well.
+
+**The Suffix Trick**
+
+Now a more advanced trick, at least with google, is when your broad questions don't guarantee you answers you can attempt to append popular forum boards or social media sites to help you find questions within those sites. For instance if I can't find an interesting book I want to read, then I'll append "reddit" to the end of my question. **"What are some good mystery books reddit"**. You will notice I don't use a question mark and that all the top results are from reddit.com. Reddit, stackoverflow, facebook, twitter, etc... are very great places to help you find hard to search questions when your luck runs out. 
 
 # Web Development 
 
